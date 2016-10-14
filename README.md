@@ -39,4 +39,4 @@ There are two sample data files (simulated data, one cases and one controls) inc
 
 ## Contact
 
-For any questions or suggestions, please contact Panagiotis Achlioptas at: pachlioptas@gmail.com
+For any questions or suggestions, please contact Panagiotis Achlioptas at: pachlioptas [at] gmail.com
